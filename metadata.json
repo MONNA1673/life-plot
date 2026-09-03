@@ -1,0 +1,6 @@
+{
+  "name": "Life Plot",
+  "description": "AI-powered personal life admin assistant that turns natural language into organized tasks with smart due dates, priorities, and executive dashboard views.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
